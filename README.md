@@ -87,7 +87,7 @@ def length_extansion_attack(Original_message, Original_hash, keylen, Forge_messa
 
 ![image](https://github.com/1-14/Project3/blob/main/2.png)
 
-
+仅需0.003s就完成了攻击
 ## 结果分析
 
 ### sm3
